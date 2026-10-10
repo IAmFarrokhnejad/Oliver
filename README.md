@@ -2,5 +2,5 @@
 
 
 #### TODO: 
-- Finalize the metrics in the manuscript.
+- ~Finalize the metrics in the manuscript.~
 - Write this readme. 
